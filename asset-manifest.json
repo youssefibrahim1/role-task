@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/life-adventure/static/css/main.d1d1cfa5.css",
+    "main.js": "/life-adventure/static/js/main.0dd1c214.js",
+    "static/js/787.b07eae3c.chunk.js": "/life-adventure/static/js/787.b07eae3c.chunk.js",
+    "static/media/crown.png": "/life-adventure/static/media/crown.c989373e7768a7f1491e.png",
+    "index.html": "/life-adventure/index.html",
+    "main.d1d1cfa5.css.map": "/life-adventure/static/css/main.d1d1cfa5.css.map",
+    "main.0dd1c214.js.map": "/life-adventure/static/js/main.0dd1c214.js.map",
+    "787.b07eae3c.chunk.js.map": "/life-adventure/static/js/787.b07eae3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1d1cfa5.css",
+    "static/js/main.0dd1c214.js"
+  ]
+}
